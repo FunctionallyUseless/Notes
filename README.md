@@ -9,3 +9,4 @@ Notes of things I want to remember, track, etc...
 * [] The Art of the Metaobject Protocol
 * [] Let over Lambda
 * [] TAoCP (the most unlikely of any book, I bet!)
+* [] Concepts, Techniques, and Models of Computer Programming
